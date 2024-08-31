@@ -36,10 +36,14 @@ Este é o primeiro projeto de programação de dispositivos móveis para a disci
 ## Estrutura do Repositório
 
 - `app/`: Diretório contendo o código-fonte do aplicativo.
-- `docs/`: Documentação adicional, se houver.
-- `build/`: Arquivos de construção do projeto.
-- `IMC_App.apk`: Arquivo APK do aplicativo.
-- `README.md`: Este arquivo.
+- `gradle/`: Diretório contendo scripts de configuração do Gradle.
+- `build.gradle`: Arquivo de configuração do projeto.
+- `settings.gradle`: Arquivo de configuração do Gradle para o projeto.
+- `gradlew`: Script para executar o Gradle no Linux/Mac.
+- `gradlew.bat`: Script para executar o Gradle no Windows.
+- `README.md`: Arquivo README do projeto.
+- `.gitignore`: Arquivo que define os arquivos que não devem ser versionados pelo Git.
+- `.idea/`: Diretório do IntelliJ IDEA.
 
 ## Como Executar o Projeto
 
