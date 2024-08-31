@@ -26,15 +26,6 @@ Este é o primeiro projeto de programação de dispositivos móveis para a disci
     - `"resultado1" -> ERRO`
     - `"resultado2" -> ENTRADA INVÁLIDA`
 
-## Entrega
-
-- **Data de Entrega**: 10/09/2024 até 23h59 (inicialmente programado para 05/09)
-- **Formato da Entrega**:
-  - O arquivo `.apk` deve ser incluído no projeto.
-  - O código-fonte deve ser enviado em um diretório zip contendo todo o projeto.
-  - Todos os membros do grupo devem enviar o projeto no Moodle para registro no processo avaliativo.
-  - O projeto deve estar alocado em um repositório no GitHub (um repositório por grupo).
-
 ## Equipe
 
 - **Membro 1**: João Paulo Souza Colombo - 23025476
