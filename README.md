@@ -47,22 +47,30 @@ Este é o primeiro projeto de programação de dispositivos móveis para a disci
 
 ## Como Executar o Projeto
 
-1. **Clone o repositório**:
+1. ** Clone o repositório:
+   
    ```bash
    git clone https://github.com/seu_usuario/nome_do_repositorio.git
    
-*Como Executar o Projeto
-**Clone o repositório:
+# Como Executar o Projeto
+* Clone o repositório:
 
-bash
+```bash
 Copiar código
 git clone https://github.com/seu_usuario/nome_do_repositorio.git
 Navegue até o diretório do projeto:
-
-bash
+```
+```bash
 Copiar código
 cd nome_do_repositorio
 Construa e execute o aplicativo:
-
+```
 Importe o projeto para o Android Studio.
-Construa o aplicativo e execute-o em um dispositivo Android ou emulador.
+
+### Construa o aplicativo e execute-o em um dispositivo Android ou emulador.
+
+## Localização do apk para uso via mobile
+
+```bash
+C:\Users\joaos\OneDrive\Documentos\GitHub\PROJETO5\Projeto-01---PDM\app\build\outputs\apk
+```
