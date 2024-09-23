@@ -45,26 +45,23 @@ Este é o primeiro projeto de programação de dispositivos móveis para a disci
 - `.gitignore`: Arquivo que define os arquivos que não devem ser versionados pelo Git.
 - `.idea/`: Diretório do IntelliJ IDEA.
 
-## Como Executar o Projeto
-
-1. ** Clone o repositório:
-   
-   ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
-   
 # Como Executar o Projeto
 * Clone o repositório:
 
-```bash
+
 Copiar código
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
+```bash
+git clone https://github.com/LucianoReisMassaro/Projeto-01---PDM.git
+```
 Navegue até o diretório do projeto:
-```
-```bash
+
+
 Copiar código
-cd nome_do_repositorio
-Construa e execute o aplicativo:
+```bash
+cd Projeto-01---PDM
 ```
+Construa e execute o aplicativo:
+
 Importe o projeto para o Android Studio.
 
 ### Construa o aplicativo e execute-o em um dispositivo Android ou emulador.
